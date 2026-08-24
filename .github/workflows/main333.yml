@@ -1,66 +1,75 @@
-name: "Auto-update VPN"
+name: "🔄 Auto-update VPN Configs"
 
 on:
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
+    inputs:
+      force_update:
+        description: 'Force update even if no changes'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
 
+env:
+  TZ: Europe/Moscow
+  PYTHONUTF8: "1"
+  PYTHONIOENCODING: "utf-8"
+  GITVERSE_TOKEN: ${{ secrets.GITVERSE_TOKEN }}   # передаём токен в скрипт
+
 jobs:
   update-configs:
+    name: "📥 Fetch & Update VPN Configs"
     runs-on: ubuntu-latest
     timeout-minutes: 30
+
     steps:
-      - name: "Checkout repository"
+      - name: "📂 Checkout from GitHub"
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITVERSE_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+          persist-credentials: true
 
-      - name: "Setup Python"
+      - name: "🔑 Add GitVerse remote"
+        run: |
+          git remote add gitverse https://RUVIPIEN:${{ secrets.GITVERSE_TOKEN }}@gitverse.ru/RUVIPIEN/russian-white-bolt_fix.git
+
+      - name: "🐍 Setup Python"
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-          cache: "pip"
+          python-version: "3.10"
 
-      - name: "Install dependencies"
+      - name: "📦 Install dependencies"
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: "📁 Prepare directories"
         run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            echo "requests" > requirements.txt
-            pip install requests
-          fi
+          mkdir -p configs sources scripts   # теперь создаём configs, а не VPNMIRRORS
 
-      - name: "Fetch and parse configs"
+      - name: "🌐 Fetch VPN configs"
         run: python scripts/fetch_configs.py
-        env:
-          PYTHONUTF8: "1"
-          TZ: "Europe/Moscow"
 
-      - name: "Generate README"
+      - name: "📝 Generate README"
         run: python scripts/generate_readme.py
-        env:
-          TZ: "Europe/Moscow"
 
-      - name: "Commit and push"
-        run: |
-          git config --global user.name "gitverse-bot"
-          git config --global user.email "bot@gitverse.ru"
-          if git diff --quiet && git diff --staged --quiet; then
-            echo "No changes, skipping commit"
-          else
-            git add configs/ README.md sources/
-            git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M MSK')"
-            git push origin HEAD
-            echo "Changes pushed successfully"
-          fi
+      - name: "🌐 Generate index.html"
+        run: python scripts/site.py
 
-      - name: "Execution report"
-        if: always()
+      - name: "📊 Count files"
+        id: count
         run: |
-          echo "## Execution Report" >> $GITHUB_STEP_SUMMARY
-          echo "- Status: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
-          echo "- Time: $(date +'%Y-%m-%d %H:%M:%S MSK')" >> $GITHUB_STEP_SUMMARY
+          VPN_FILES=$(find configs -type f ! -name "metadata.json" 2>/dev/null | wc -l)
+          echo "vpn_files=$VPN_FILES" >> $GITHUB_OUTPUT
+
+      - name: "💾 Commit and push to both remotes"
+        run: |
+          git config user.name "gitverse-bot"
+          git config user.email "bot@gitverse.ru"
+          git add -A
+          git diff --cached --quiet || git commit -m "🔄 Auto-update: $(date)"
+          git push origin HEAD
+          git push gitverse HEAD
