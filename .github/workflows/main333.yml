@@ -1,4 +1,4 @@
-name: Unzip and Push4444
+name: Unzip and Push
 
 on:
   push:
@@ -10,14 +10,11 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26  # SHA для v3
 
       - name: Unzip to root
         run: |
-          # Распаковываем zip прямо в корень
           unzip -o russian-white-bolt_fix-RUVIPIEN-patch.zip
-          
-          # Удаляем сам zip (опционально)
           rm -f russian-white-bolt_fix-RUVIPIEN-patch.zip
 
       - name: Commit and push
