@@ -1,6 +1,6 @@
 # EtoNeYa_Raw_2
 # Source: https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
-# Updated: 2026-08-25T09:54:15.666610+00:00
+# Updated: 2026-08-25T10:17:12.557402+00:00
 # Total: 7201
 # Protocols: other: 380, ss: 342, ssr: 6, tor_bridge: 4, trojan: 345, tuic: 2, vless: 5758, vmess: 364
 

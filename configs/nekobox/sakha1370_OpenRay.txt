@@ -1,6 +1,6 @@
 # sakha1370_OpenRay
 # Source: https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt
-# Updated: 2026-08-25T09:54:38.775875+00:00
+# Updated: 2026-08-25T10:17:33.093637+00:00
 # Total: 13404
 # Protocols: other: 10, ss: 428, trojan: 1026, vless: 11024, vmess: 916
 
