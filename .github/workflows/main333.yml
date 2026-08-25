@@ -89,6 +89,6 @@ jobs:
       - name: "🚀 Deploy to Vercel (first time)"
         run: |
           vercel --prod --token ${{ secrets.VERCEL_TOKEN }} \
-            --scope ${{ secrets.VERCEL_ORG_ID }} \
+            --scope ${{ secrets.VERCEL_USER_ID }} \
             --name VPNBOLT \
             --yes
