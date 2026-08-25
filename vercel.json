@@ -1,0 +1,28 @@
+{
+  "name": "vpnbolt",
+  "version": 2,
+  "builds": [
+    {
+      "src": "*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "configs/**/*.txt",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "scripts/**/*.py",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
