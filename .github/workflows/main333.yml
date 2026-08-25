@@ -27,7 +27,7 @@ jobs:
 
     steps:
       - name: "📂 Checkout from GitHub"
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4 SHA
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
@@ -38,7 +38,7 @@ jobs:
           git remote add gitverse https://RUVIPIEN:${{ secrets.PUSH_TK }}@gitverse.ru/RUVIPIEN/russian-white-bolt_fix.git
 
       - name: "🐍 Setup Python"
-        uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b  # v5 правильный SHA
+        uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b
         with:
           python-version: "3.10"
 
@@ -71,4 +71,24 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "🔄 Auto-update: $(date)"
           git push origin HEAD
-          git push gitverse HEAD
+          git push gitverse HEAD || echo "GitVerse push failed"
+
+  deploy-vercel:
+    name: "🚀 Deploy to Vercel"
+    runs-on: ubuntu-latest
+    needs: update-configs
+    if: always() && needs.update-configs.result == 'success'
+    
+    steps:
+      - name: "📂 Checkout"
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: "📦 Install Vercel CLI"
+        run: npm install -g vercel
+
+      - name: "🚀 Deploy to Vercel (first time)"
+        run: |
+          vercel --prod --token ${{ secrets.VERCEL_TOKEN }} \
+            --scope ${{ secrets.VERCEL_ORG_ID }} \
+            --name VPNBOLT \
+            --yes
