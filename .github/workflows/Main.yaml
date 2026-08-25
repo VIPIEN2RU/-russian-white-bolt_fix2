@@ -89,5 +89,5 @@ jobs:
       - name: "🚀 Deploy to Vercel"
         run: |
           vercel --prod --token ${{ secrets.VERCEL_TOKEN }} \
-            --name VPNBOLT \
+            --name vpnbolt \
             --yes
