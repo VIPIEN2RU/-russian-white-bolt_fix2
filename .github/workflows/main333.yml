@@ -18,7 +18,6 @@ env:
   TZ: Europe/Moscow
   PYTHONUTF8: "1"
   PYTHONIOENCODING: "utf-8"
-  GITVERSE_TOKEN: ${{ secrets.GITVERSE_TOKEN }}   # передаём токен в скрипт
 
 jobs:
   update-configs:
@@ -28,7 +27,7 @@ jobs:
 
     steps:
       - name: "📂 Checkout from GitHub"
-        uses: actions/checkout@v4
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4 SHA
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
@@ -36,10 +35,10 @@ jobs:
 
       - name: "🔑 Add GitVerse remote"
         run: |
-          git remote add gitverse https://RUVIPIEN:${{ secrets.GITVERSE_TOKEN }}@gitverse.ru/RUVIPIEN/russian-white-bolt_fix.git
+          git remote add gitverse https://RUVIPIEN:${{ secrets.PUSH_TK }}@gitverse.ru/RUVIPIEN/russian-white-bolt_fix.git
 
       - name: "🐍 Setup Python"
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@8d9ed0a22c8c5e4b52d1ad4d7373b3efbc6b8331  # v5 SHA
         with:
           python-version: "3.10"
 
@@ -48,7 +47,7 @@ jobs:
 
       - name: "📁 Prepare directories"
         run: |
-          mkdir -p configs sources scripts   # теперь создаём configs, а не VPNMIRRORS
+          mkdir -p configs sources scripts
 
       - name: "🌐 Fetch VPN configs"
         run: python scripts/fetch_configs.py
