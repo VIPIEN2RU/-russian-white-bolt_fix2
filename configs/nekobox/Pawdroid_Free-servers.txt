@@ -1,6 +1,6 @@
 # Pawdroid_Free-servers
 # Source: https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
-# Updated: 2026-08-25T11:06:43.042363+00:00
+# Updated: 2026-08-25T11:37:13.208027+00:00
 # Total: 10
 # Protocols: hy2: 1, other: 1, ss: 1, trojan: 1, vless: 6
 

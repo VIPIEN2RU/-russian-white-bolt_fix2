@@ -1,6 +1,6 @@
 # WHITE_CIDR_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
-# Updated: 2026-08-25T11:06:06.954220+00:00
+# Updated: 2026-08-25T11:36:30.733715+00:00
 # Total: 103
 # Protocols: other: 15, ss: 1, vless: 86, vmess: 1
 

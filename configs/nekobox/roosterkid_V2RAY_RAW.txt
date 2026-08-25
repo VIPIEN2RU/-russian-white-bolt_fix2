@@ -1,6 +1,6 @@
 # roosterkid_V2RAY_RAW
 # Source: https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt
-# Updated: 2026-08-25T11:06:40.844394+00:00
+# Updated: 2026-08-25T11:37:10.601910+00:00
 # Total: 150
 # Protocols: ss: 38, trojan: 7, vless: 97, vmess: 8
 
