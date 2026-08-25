@@ -9,16 +9,16 @@
     {
       "src": "configs/**/*.txt",
       "use": "@vercel/static"
-    },
-    {
-      "src": "scripts/**/*.py",
-      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/",
       "dest": "/index.html"
+    },
+    {
+      "src": "/checker.html",
+      "dest": "/checker.html"
     },
     {
       "src": "/(.*)",
