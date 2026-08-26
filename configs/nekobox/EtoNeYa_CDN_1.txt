@@ -1,6 +1,6 @@
 # EtoNeYa_CDN_1
 # Source: https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1
-# Updated: 2026-08-25T21:56:50.181591+00:00
+# Updated: 2026-08-26T03:35:03.412287+00:00
 # Total: 8118
 # Protocols: other: 477, ss: 377, ssr: 10, tor_bridge: 6, trojan: 398, tuic: 2, vless: 6467, vmess: 381
 
