@@ -1,22 +1,16 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-08-26T14:26:02.080210+00:00
-# Total: 11
-# Protocols: other: 1, vless: 10
+# Updated: 2026-08-28T01:01:09.536277+00:00
+# Total: 5
+# Protocols: other: 1, vless: 4
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-26 / 16:30 (Moscow)
-# Количество: 10
+# Date/Time: 2026-08-28 / 02:59 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=android#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=chrome#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=firefox#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=ios#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=edge#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=android#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=ios#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=qq#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=safari#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=safari#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%5B%2ACIDR%5D%20VK
+vless://f23f641d-b83b-0002-8046-c513696f7fe5@ru34.overseashost.ru:443?security=reality&encryption=none&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru39.overseashost.ru&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://f23f641d-b83b-0002-8046-c513696f7fe5@ru34.overseashost.ru:443?security=reality&encryption=none&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru39.overseashost.ru&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://f23f641d-b83b-0002-8046-c513696f7fe5@ru34.overseashost.ru:443?security=reality&encryption=none&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru39.overseashost.ru&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://f23f641d-b83b-0002-8046-c513696f7fe5@ru34.overseashost.ru:443?security=reality&encryption=none&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru39.overseashost.ru&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
