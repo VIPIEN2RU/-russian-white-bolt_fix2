@@ -1,11 +1,11 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-08-29T06:01:06.744072+00:00
+# Updated: 2026-08-29T09:01:07.005568+00:00
 # Total: 1
 # Protocols: other: 1
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-29 / 08:47 (Moscow)
+# Date/Time: 2026-08-29 / 10:57 (Moscow)
 # Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
