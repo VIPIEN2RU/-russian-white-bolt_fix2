@@ -1,17 +1,35 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-08-30T00:01:13.051752+00:00
-# Total: 6
-# Protocols: other: 1, vless: 5
+# Updated: 2026-08-30T03:01:08.002485+00:00
+# Total: 24
+# Protocols: other: 3, vless: 21
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-30 / 02:46 (Moscow)
-# Количество: 5
+# Date/Time: 2026-08-30 / 05:09 (Moscow)
+# Количество: 23
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
-vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
-vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
-vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
-vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
+vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://e41dbbf8-b0ca-4328-a237-1520da5246c1@46.243.234.193:2053?type=grpc&security=reality&pbk=bBKApM5WgpuMsXoaDD2Umv4K7pc-02P_yfmHClQ-Ong&sid=daa26763b27edd53&sni=5post-gate.x5.ru&serviceName=grpc-wl&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://e41dbbf8-b0ca-4328-a237-1520da5246c1@46.243.234.193:2053?type=grpc&security=reality&pbk=bBKApM5WgpuMsXoaDD2Umv4K7pc-02P_yfmHClQ-Ong&sid=daa26763b27edd53&sni=5post-gate.x5.ru&serviceName=grpc-wl&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://e41dbbf8-b0ca-4328-a237-1520da5246c1@46.243.234.193:2053?type=grpc&security=reality&pbk=bBKApM5WgpuMsXoaDD2Umv4K7pc-02P_yfmHClQ-Ong&sid=daa26763b27edd53&sni=5post-gate.x5.ru&serviceName=grpc-wl&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://24708d62-a508-4c63-a860-7d4e04e440b1@46.243.234.72:2053?type=grpc&security=reality&pbk=IDjWshY2nmbQJzUme5TMymI-RI99Zku45lO9k1HKyTA&sid=20a080af5636a681&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc-wl&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
+vless://2256212c-88f8-4d74-ac61-4cc0aef25032@10aw7.guardora.pro:2026?type=grpc&security=reality&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&sid=a1b2c3d4&sni=ads.x5.ru&serviceName=grpc&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://2256212c-88f8-4d74-ac61-4cc0aef25032@10aw7.guardora.pro:2026?type=grpc&security=reality&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&sid=a1b2c3d4&sni=ads.x5.ru&serviceName=grpc&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://2256212c-88f8-4d74-ac61-4cc0aef25032@10aw7.guardora.pro:2026?type=grpc&security=reality&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&sid=a1b2c3d4&sni=ads.x5.ru&serviceName=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.77:443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=ads.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.77:443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=ads.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.77:443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=ads.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.77:8443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=5post-gate.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.77:8443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=5post-gate.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.77:8443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=5post-gate.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.64:443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=ads.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.64:443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=ads.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.64:443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=ads.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.64:8443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=5post-gate.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.64:8443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=5post-gate.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://91c3fcdf-d85b-46f8-ad85-5c5adadf661b@46.243.235.64:8443?type=grpc&security=reality&pbk=na4liMQYlI_sUt5fxfVoty37p2jNVlG2zUIzpPC95XU&sid=846229eb47b3a5c9&sni=5post-gate.x5.ru&mode=multi&serviceName=api.v2.SyncService%2FStreamUpdates&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@m9-m0zm4-6mj2.ru.vkproxy.com:20443?sni=ru.mediavitrina.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
+hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@b1-fq6u-ymx1.ru.vkproxy.com:30443?sni=ru.mediavitrina.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20CDN

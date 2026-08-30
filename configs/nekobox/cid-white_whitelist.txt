@@ -1,6 +1,6 @@
 # cid-white_whitelist
 # Source: https://gitverse.ru/api/repos/cid-uskoritel/cid-white/raw/branch/master/whitelist.txt
-# Updated: 2026-08-30T00:01:20.201126+00:00
+# Updated: 2026-08-30T03:01:15.503307+00:00
 # Total: 143
 # Protocols: other: 2, vless: 141
 
