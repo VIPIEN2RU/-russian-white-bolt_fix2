@@ -1,11 +1,17 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-09-02T15:06:46.045204+00:00
-# Total: 1
-# Protocols: other: 1
+# Updated: 2026-09-02T18:01:22.586378+00:00
+# Total: 6
+# Protocols: other: 1, vless: 5
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-09-02 / 17:03 (Moscow)
-# Количество: 0
+# Date/Time: 2026-09-02 / 19:20 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+
+vless://9d635464-57dc-4bac-a1be-dd731d74ed06@46.243.234.143:2053?encryption=none&mode=gun&pbk=EtfCxtqZmJ_cNs8Q02ZLuiHFoH7o7DogIcMSQjuuAiI&security=reality&serviceName=grpc-wl&sid=346951f93706f6ec&sni=5post-gate.x5.ru&type=grpc&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://9d635464-57dc-4bac-a1be-dd731d74ed06@46.243.234.143:2053?encryption=none&mode=gun&pbk=EtfCxtqZmJ_cNs8Q02ZLuiHFoH7o7DogIcMSQjuuAiI&security=reality&serviceName=grpc-wl&sid=346951f93706f6ec&sni=5post-gate.x5.ru&type=grpc&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://9d635464-57dc-4bac-a1be-dd731d74ed06@46.243.234.143:2053?encryption=none&mode=gun&pbk=EtfCxtqZmJ_cNs8Q02ZLuiHFoH7o7DogIcMSQjuuAiI&security=reality&serviceName=grpc-wl&sid=346951f93706f6ec&sni=5post-gate.x5.ru&type=grpc&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://9d635464-57dc-4bac-a1be-dd731d74ed06@46.243.234.143:2053?encryption=none&mode=gun&pbk=EtfCxtqZmJ_cNs8Q02ZLuiHFoH7o7DogIcMSQjuuAiI&security=reality&serviceName=grpc-wl&sid=346951f93706f6ec&sni=5post-gate.x5.ru&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+vless://9d635464-57dc-4bac-a1be-dd731d74ed06@46.243.234.143:2053?encryption=none&mode=gun&pbk=EtfCxtqZmJ_cNs8Q02ZLuiHFoH7o7DogIcMSQjuuAiI&security=reality&serviceName=grpc-wl&sid=346951f93706f6ec&sni=5post-gate.x5.ru&type=grpc&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
