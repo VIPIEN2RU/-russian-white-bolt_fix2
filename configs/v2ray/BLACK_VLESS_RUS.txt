@@ -1,6 +1,6 @@
 # BLACK_VLESS_RUS
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
-# Updated: 2026-09-02T06:01:06.549289+00:00
+# Updated: 2026-09-02T09:01:15.348323+00:00
 # Total: 88
 # Protocols: other: 1, vless: 87
 
