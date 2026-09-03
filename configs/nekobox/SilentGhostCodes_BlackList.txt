@@ -1,6 +1,6 @@
 # SilentGhostCodes_BlackList
 # Source: https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/BlackList.txt
-# Updated: 2026-09-03T00:01:55.139113+00:00
+# Updated: 2026-09-03T05:22:45.915806+00:00
 # Total: 9
 # Protocols: other: 2, vless: 7
 

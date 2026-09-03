@@ -1,6 +1,6 @@
 # wuqb2i4f_mix-uri
 # Source: https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri
-# Updated: 2026-09-03T00:02:07.642461+00:00
+# Updated: 2026-09-03T05:22:57.696040+00:00
 # Total: 546
 # Protocols: trojan: 3, vless: 367, vmess: 176
 
