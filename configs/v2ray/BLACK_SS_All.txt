@@ -1,6 +1,6 @@
 # BLACK_SS_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt
-# Updated: 2026-09-04T03:01:15.160870+00:00
+# Updated: 2026-09-04T06:01:12.017040+00:00
 # Total: 69
 # Protocols: other: 22, trojan: 40, vmess: 7
 
