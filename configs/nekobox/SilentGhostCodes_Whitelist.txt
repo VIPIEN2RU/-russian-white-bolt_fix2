@@ -1,6 +1,6 @@
 # SilentGhostCodes_Whitelist
 # Source: https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist.txt
-# Updated: 2026-09-05T18:04:41.522742+00:00
+# Updated: 2026-09-05T21:03:56.122933+00:00
 # Total: 166
 # Protocols: other: 6, trojan: 4, vless: 156
 
