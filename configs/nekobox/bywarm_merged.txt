@@ -1,6 +1,6 @@
 # bywarm_merged
 # Source: https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/merged.txt
-# Updated: 2026-09-06T09:02:02.006514+00:00
+# Updated: 2026-09-06T12:01:38.171210+00:00
 # Total: 9392
 # Protocols: hy2: 39, other: 139, ss: 728, tor_bridge: 3, trojan: 236, tuic: 2, vless: 7844, vmess: 401
 
