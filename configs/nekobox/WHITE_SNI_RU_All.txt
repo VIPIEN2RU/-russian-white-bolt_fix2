@@ -1,11 +1,13 @@
 # WHITE_SNI_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
-# Updated: 2026-09-07T03:01:25.348166+00:00
-# Total: 1
-# Protocols: other: 1
+# Updated: 2026-09-07T06:01:24.142049+00:00
+# Total: 2
+# Protocols: other: 2
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-07 / 05:07 (Moscow)
-# Количество: 0
+# Date/Time: 2026-09-07 / 08:25 (Moscow)
+# Количество: 1
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+
+hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5BSNI-RU%5D%20vk.com
