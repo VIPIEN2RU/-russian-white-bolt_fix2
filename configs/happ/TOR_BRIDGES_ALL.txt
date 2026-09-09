@@ -1,6 +1,6 @@
 # TOR_BRIDGES_ALL
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt
-# Updated: 2026-09-09T00:01:36.332687+00:00
+# Updated: 2026-09-09T03:01:20.393014+00:00
 # Total: 332
 # Protocols: bridge: 179, ip: 123, other: 25, tor_bridge: 5
 
