@@ -1,6 +1,6 @@
 # obwlsub_wwh
 # Source: https://obwlsub.vercel.app/wwh
-# Updated: 2026-09-10T21:02:40.051514+00:00
+# Updated: 2026-09-11T00:02:31.898421+00:00
 # Total: 4
 # Protocols: other: 1, vless: 3
 
