@@ -1,6 +1,6 @@
 # WHITE_SNI_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
-# Updated: 2026-09-12T09:01:42.086090+00:00
+# Updated: 2026-09-12T12:01:31.980755+00:00
 # Total: 1
 # Protocols: other: 1
 
