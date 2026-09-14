@@ -1,6 +1,6 @@
 # Mr-Meshky_vify_vless
 # Source: https://github.com/Mr-Meshky/vify/raw/refs/heads/main/configs/vless.txt
-# Updated: 2026-09-14T06:02:12.747210+00:00
+# Updated: 2026-09-14T09:04:36.496592+00:00
 # Total: 868
 # Protocols: vless: 868
 
