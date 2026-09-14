@@ -1,6 +1,6 @@
 # AvenCores_goida_3
 # Source: https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt
-# Updated: 2026-09-14T09:04:43.856828+00:00
+# Updated: 2026-09-14T12:02:38.540949+00:00
 # Total: 13268
 # Protocols: hy2: 4, other: 137, ss: 1501, ssr: 9, trojan: 821, vless: 9764, vmess: 1032
 
