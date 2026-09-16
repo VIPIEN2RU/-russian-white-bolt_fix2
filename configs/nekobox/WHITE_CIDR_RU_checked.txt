@@ -1,11 +1,15 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-09-16T00:01:42.995696+00:00
-# Total: 1
-# Protocols: other: 1
+# Updated: 2026-09-16T03:02:04.500529+00:00
+# Total: 4
+# Protocols: other: 1, vless: 3
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-09-16 / 02:34 (Moscow)
-# Количество: 0
+# Date/Time: 2026-09-16 / 05:00 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+
+vless://ea280e1e-9b81-4fd4-8252-f221297b15b9@212.233.120.1:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D%20VK
+vless://ea280e1e-9b81-4fd4-8252-f221297b15b9@212.233.120.1:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D%20VK
+vless://ea280e1e-9b81-4fd4-8252-f221297b15b9@212.233.120.1:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D%20VK
