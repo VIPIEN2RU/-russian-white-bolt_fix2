@@ -1,6 +1,6 @@
 # gpucloud_merged
 # Source: https://s3c3.001.gpucloud.ru/wlr/merged.txt
-# Updated: 2026-09-16T09:02:02.327627+00:00
+# Updated: 2026-09-16T12:02:06.840125+00:00
 # Total: 9697
 # Protocols: hy2: 30, other: 171, ss: 719, tor_bridge: 4, trojan: 256, tuic: 1, vless: 8196, vmess: 320
 
