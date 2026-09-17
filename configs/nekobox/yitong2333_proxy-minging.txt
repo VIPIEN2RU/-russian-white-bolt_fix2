@@ -1,6 +1,6 @@
 # yitong2333_proxy-minging
 # Source: https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt
-# Updated: 2026-09-17T18:02:17.911776+00:00
+# Updated: 2026-09-17T21:02:14.111756+00:00
 # Total: 13735
 # Protocols: hy2: 52, other: 147, ss: 1579, ssr: 9, tor_bridge: 1, trojan: 1074, vless: 9775, vmess: 1098
 
