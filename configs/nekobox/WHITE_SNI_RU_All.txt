@@ -1,11 +1,11 @@
 # WHITE_SNI_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
-# Updated: 2026-09-19T12:01:47.760870+00:00
+# Updated: 2026-09-19T15:01:38.553507+00:00
 # Total: 1
 # Protocols: other: 1
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-19 / 14:10 (Moscow)
+# Date/Time: 2026-09-19 / 17:17 (Moscow)
 # Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
