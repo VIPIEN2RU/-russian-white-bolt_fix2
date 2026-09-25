@@ -1,6 +1,6 @@
 # bywarm_selected
 # Source: https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.txt
-# Updated: 2026-09-25T08:14:04.612055+00:00
+# Updated: 2026-09-25T14:13:59.032459+00:00
 # Total: 256
 # Protocols: ss: 1, vless: 255
 
