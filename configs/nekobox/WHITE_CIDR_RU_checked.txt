@@ -1,14 +1,15 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-09-29T21:33:51.718980+00:00
-# Total: 3
-# Protocols: other: 1, vless: 2
+# Updated: 2026-09-30T02:30:53.512822+00:00
+# Total: 4
+# Protocols: other: 1, vless: 3
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-09-30 / 00:10 (Moscow)
-# Количество: 2
+# Date/Time: 2026-09-30 / 04:38 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://64017d58-1297-4cd0-9a9b-4ec325f411f8@37.139.42.187:8088?encryption=none&type=grpc&security=reality&sni=pic.rutubelist.ru&pbk=PAP10NLpy_4J_vf1CEtDuLJtce3pLSNhHLbuuAUXqBU&sid=a1b2c3d4&serviceName=media.ingest.v2.ChunkUploadService&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-vless://64017d58-1297-4cd0-9a9b-4ec325f411f8@37.139.42.187:8088?encryption=none&type=grpc&security=reality&sni=pic.rutubelist.ru&pbk=PAP10NLpy_4J_vf1CEtDuLJtce3pLSNhHLbuuAUXqBU&sid=a1b2c3d4&serviceName=media.ingest.v2.ChunkUploadService&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.169.241:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=xsKg-Qi8sZNRRaNf6svIUwSw6iMdOTc6Cl82inZFM1Y&sni=api-maps.yandex.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://Fluffy_VPN-zKZUa4Ie@84.201.169.241:443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=xsKg-Qi8sZNRRaNf6svIUwSw6iMdOTc6Cl82inZFM1Y&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://f9f5a72c-c299-4d98-b2ad-d04aba3c7b1f@185.241.195.218:443?encryption=none&type=grpc&serviceName=vlgrpc&mode=gun&security=tls&sni=cdn0.s3-rus.ru&fp=chrome&alpn=h2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
