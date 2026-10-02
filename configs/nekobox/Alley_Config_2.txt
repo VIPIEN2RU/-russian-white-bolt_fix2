@@ -1,6 +1,6 @@
 # Alley_Config_2
 # Source: https://alley.serv00.net/2
-# Updated: 2026-10-01T22:02:46.569950+00:00
+# Updated: 2026-10-02T02:38:00.944200+00:00
 # Total: 6212
 # Protocols: other: 462, ss: 372, tor_bridge: 4, trojan: 180, tuic: 7, vless: 4843, vmess: 344
 
