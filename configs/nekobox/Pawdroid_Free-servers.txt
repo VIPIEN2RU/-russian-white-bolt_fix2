@@ -1,26 +1,17 @@
 # Pawdroid_Free-servers
 # Source: https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
-# Updated: 2026-10-02T02:38:46.250776+00:00
-# Total: 20
-# Protocols: other: 1, trojan: 1, vless: 18
+# Updated: 2026-10-02T09:07:00.930627+00:00
+# Total: 11
+# Protocols: other: 3, vless: 7, vmess: 1
 
-vless://9bf81377-d077-4569-9fc9-5f0a55180651@172.64.151.134:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=super-feather-91c4.267.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&sni=hy.quattro-tech.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://7111212b-6bc3-459a-85b4-3b13038a19f8@162.159.140.78:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=shrill-fog-67af.235-e6a.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://b0490f49-7201-4f8e-b456-f99a4d222f5b@95.85.247.62:443?security=reality&encryption=none&pbk=55-Q43xORYP1vJOssALwSj1t07qUaUiES8PurqO7ZWs&headerType=none&fp=chrome&spx=/&type=tcp&sni=neder.yandex-mul.fun#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=square-sea-01d1.339-be3.workers.dev&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@78.159.246.110:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://c6ba83a7-c4b5-481f-8f71-0f17deff0bf2@104.21.44.253:8080?&type=ws&headerType=none&host=billowing-sunset-e340.qaraatayi.workers.dev&path=%2FeyJqdW5rIjoiOUhPbnRlV0xaekI1cjciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?security=reality&encryption=none&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=polkakurvich.hohoterz.beer&sid=fcfd621a2f36e3b6#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://9c772ed7-2843-4554-9a96-4a88f827de58@cf9.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=nameless-tree-08b8.352.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://fb5058f5-a9ed-424e-9ed7-33d455438286@194.152.44.2:8880?security=none&type=ws&path=/pyip=Telegram🇨🇳+@WangCai2&host=old-violet-a5ce.29-440.workers.dev&packetEncoding=xudp#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@129.211.188.184:8443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%8D%97%E4%BA%AC%E5%B8%82+%E8%85%BE%E8%AE%AF%E4%BA%91
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://964e6322-afad-4594-8508-86d634d732e6@194.36.55.146:80?security=none&type=ws&path=/&host=blacklegends.umc-mansur13.workers.dev&packetEncoding=xudp&sni=194.36.55.146&encryption=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://0787cfdb-9930-4abb-8419-c1b96c3ef628@skk.moe:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=red-snowflake-c399.12-ee1.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://4ae1f5c4-6595-4a20-85c0-0deec1e6ecb9@104.17.144.29:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=misty-dew-009a.484.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@31.76.84.174:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=yaruss.stopingiphatered.shop&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&headertype=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://9cb2520c-148b-4bbc-a149-9d5a43ff0db3@germany.tofreedom.ru:8444?encryption=none&type=ws&host=germany.tofreedom.ru&path=/c7f5317cd04691bc&security=tls&sni=germany.tofreedom.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://015fada5-2c95-4251-9c58-39fa3abf1e24@172.67.203.138:8080?encryption=none&security=none&sni=172.67.203.138&type=ws&host=server17.peekconfig1.workers.dev&path=%2FeyJqdW5rIjoidzY2QTdySkdOeiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://e1bd06de-a075-4ad5-b73f-b54587368cc7@104.21.12.116:8880?security=none&type=ws&path=/pyip=proxyip.jp.cmliussss.net&host=morning-feather-dc98.136-25b.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://fb5058f5-a9ed-424e-9ed7-33d455438286@193.227.99.2:8880?security=none&type=ws&path=/pyip=Telegram🇨🇳+@WangCai2&host=old-violet-a5ce.29-440.workers.dev&packetEncoding=xudp#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vless://aa7461af-3176-42a3-8974-59930189c521@172.66.158.115:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=round-block-e864.326.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6b6733fb-580b-411b-8bf8-51137c2aa037@172.66.170.53:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=restless-sky-eb31.438-aa8.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ni4xOSIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIiwgImlkIjogImFlZDg4ZTc5LTU3NjItNGQyZi04NmZhLWY0MzhmMzJhNzY1NCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIlx1NWRmNFx1ODk3Zlx1NTcyM1x1NGZkZFx1N2Y1NyBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=21270a66&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&encryption=none#%E7%BE%8E%E5%9B%BD+Merit%E7%BD%91%E7%BB%9C%E5%85%AC%E5%8F%B8
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=chrome&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443?security=tls&sni=fi01.clgate.network#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011#%E5%8C%97%E4%BA%AC%E5%B8%82+%E7%99%BE%E5%BA%A6%E7%94%B5%E4%BF%A1%E8%8A%82%E7%82%B9
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.143:8443?security=tls&sni=hop-germany-september.dynuddns.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@108.181.5.106:51285?insecure=1&security=tls&sni=www.bing.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+vless://44f06ad1-982c-4e03-849f-899c1c8dc14f@vl.cocopon.top:443?encryption=none&security=tls&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://dc53f855-5025-45c8-9a85-981036839c5c@skk.moe:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=summer-breeze-0574.279.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
