@@ -1,6 +1,6 @@
 # bywarm_wl
 # Source: https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt
-# Updated: 2026-10-05T19:48:02.197038+00:00
+# Updated: 2026-10-06T01:34:55.543771+00:00
 # Total: 1706
 # Protocols: other: 3, ss: 24, trojan: 2, vless: 1673, vmess: 4
 
