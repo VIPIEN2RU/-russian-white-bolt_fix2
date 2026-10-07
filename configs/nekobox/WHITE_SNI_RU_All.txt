@@ -1,11 +1,14 @@
 # WHITE_SNI_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
-# Updated: 2026-10-06T21:56:12.572931+00:00
-# Total: 1
-# Protocols: other: 1
+# Updated: 2026-10-07T02:46:21.457466+00:00
+# Total: 3
+# Protocols: other: 1, vless: 2
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-07 / 00:34 (Moscow)
-# Количество: 0
+# Date/Time: 2026-10-07 / 04:30 (Moscow)
+# Количество: 2
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+
+vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&sni=storage.yandexcloud.net&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
+vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&sni=storage.yandexcloud.net&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
