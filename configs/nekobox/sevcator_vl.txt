@@ -1,6 +1,6 @@
 # sevcator_vl
 # Source: https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt
-# Updated: 2026-10-10T23:56:50.850475+00:00
+# Updated: 2026-10-11T02:25:13.322884+00:00
 # Total: 420430
 # Protocols: vless: 420430
 

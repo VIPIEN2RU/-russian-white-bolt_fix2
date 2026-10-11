@@ -1,14 +1,19 @@
 # Pawdroid_Free-servers
 # Source: https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
-# Updated: 2026-10-10T23:56:56.126383+00:00
-# Total: 8
-# Protocols: vless: 8
+# Updated: 2026-10-11T02:25:18.567206+00:00
+# Total: 13
+# Protocols: vless: 13
 
-vless://86096188-0ece-41af-922d-792c5f96c3ad@45.144.179.112:443?&security=reality&flow=xtls-rprx-vision&pbk=8cN2ldJOVJ_ulUORM3mblWMg1etGrTruJoAtYyhE5h8&sid=73cd09c320ca209d&fp=firefox&sni=ru.caloribro.uno&type=tcp&headerType=none&host=ru.caloribro.uno&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@13.143.137.206:8443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp#%E7%BE%8E%E5%9B%BD+Xerox
-vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E6%B3%A2%E7%89%B9%E5%85%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s593.sspcccdn.xyz:10829?encryption=none&type=tcp&headerType=&fp=firefox&host=4d99b056s591.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695098u4d99b056s591.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@gw1.edgemedia.lol:13443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#%E7%BE%8E%E5%9B%BD+Xerox
-vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?&security=reality&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&fp=chrome&sni=portal.citygrainla.com&type=tcp&headerType=none&host=portal.citygrainla.com&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@80.93.202.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime02.workers.dev&path=%2F#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://9cc42ee7-1f5f-46f5-a8b0-2da76b6b6641@104.26.2.223:8080?security=none&type=ws&path=/&host=pe2ev-frosty-poetry-3d08.s67y4jl8.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.213.30:8880?&sni=155.46.213.30&type=ws&headerType=none&host=vms.lifetime51.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f55a75a7-5aa6-4df7-814a-99da0edb5c86@104.21.55.229:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=autumn-cloud-ab5e.229-601.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime50.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6+V2CROSS.COM
+vless://0e538403-1c73-479a-b121-121087fa59af@89.125.124.209:443?security=reality&encryption=none&pbk=0fu7k3-djQFG5XDmMeRsETxqp5mMFA5h17lSaZP63S4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.appstatic.ru&sid=4d4de14b6b7c9aa4#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#%E5%AE%89%E5%BE%BD%E7%9C%81%E6%BB%81%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@gw1.edgemedia.lol:13443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp#%E7%BE%8E%E5%9B%BD+Xerox
+vless://38ede46b-d237-4c76-9de1-a10738642adc@172.66.170.53:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=summer-hat-ba5c.430.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+vless://0b2ea024-3ffd-46a7-87ce-86cbb79d7a48@172.67.171.191:8080?encryption=none&security=none&type=ws&host=server18.peekconfig2.workers.dev&path=%2FeyJqdW5rIjoiT3FNeW1sMVdGVHlvNTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
