@@ -1,6 +1,6 @@
 # CidVpn_general
 # Source: https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt
-# Updated: 2026-10-17T17:35:58.780159+00:00
+# Updated: 2026-10-17T19:46:47.852171+00:00
 # Total: 359
 # Protocols: other: 2, vless: 357
 
