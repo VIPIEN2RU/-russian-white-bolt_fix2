@@ -1,16 +1,18 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-10-18T01:36:40.863647+00:00
-# Total: 5
-# Protocols: other: 1, vless: 4
+# Updated: 2026-10-18T07:27:41.164771+00:00
+# Total: 7
+# Protocols: other: 1, vless: 6
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-10-18 / 03:07 (Moscow)
-# Количество: 4
+# Date/Time: 2026-10-18 / 09:08 (Moscow)
+# Количество: 6
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@94.139.247.207:23688?mode=gun&security=reality&encryption=none&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&spx=%2F&type=grpc&serviceName=awarecricketer&sni=apple.com&sid=f679b4f2&fp=edge#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%7C%20%5B%2ACIDR%5D%20VK
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@94.139.247.207:23688?mode=gun&security=reality&encryption=none&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&spx=%2F&type=grpc&serviceName=awarecricketer&sni=apple.com&sid=f679b4f2&fp=firefox#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%7C%20%5B%2ACIDR%5D%20VK
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@94.139.247.207:23688?mode=gun&security=reality&encryption=none&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&spx=%2F&type=grpc&serviceName=awarecricketer&sni=apple.com&sid=f679b4f2&fp=qq#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%7C%20%5B%2ACIDR%5D%20VK
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@94.139.247.207:23688?mode=gun&security=reality&encryption=none&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&spx=%2F&type=grpc&serviceName=awarecricketer&sni=apple.com&sid=f679b4f2&fp=safari#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%7C%20%5B%2ACIDR%5D%20VK
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@94.139.247.207:23688?mode=gun&security=reality&encryption=none&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&spx=%2F&type=grpc&serviceName=awarecricketer&sni=apple.com&sid=f679b4f2&fp=firefox#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%5B%2ACIDR%5D%20VK
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@94.139.247.207:23688?mode=gun&security=reality&encryption=none&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&spx=%2F&type=grpc&serviceName=awarecricketer&sni=apple.com&sid=f679b4f2&fp=ios#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%5B%2ACIDR%5D%20VK
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@94.139.247.207:23688?mode=gun&security=reality&encryption=none&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&spx=%2F&type=grpc&serviceName=awarecricketer&sni=apple.com&sid=f679b4f2&fp=safari#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%5B%2ACIDR%5D%20VK
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA

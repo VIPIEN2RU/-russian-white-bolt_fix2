@@ -1,6 +1,6 @@
 # VPN configs
 
-> Auto-update every 3 hours | Last: 2026-10-18T01:37:31.243658+00:00
+> Auto-update every 3 hours | Last: 2026-10-18T07:28:31.313040+00:00
 > Working sources: 32 / 57
 
 ---
@@ -18,72 +18,72 @@
 ### Nekobox Configs
 
 <details>
-<summary><b>Alley_Config_1</b> — 4203 configs, 937.7 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>Alley_Config_1</b> — 2465 configs, 555.5 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | Alley_Config_1.txt |
 | Source | https://alley.serv00.net/1 |
-| Configs | 4203 |
-| Hash | 01922c9c |
+| Configs | 2465 |
+| Hash | 1bb3dd24 |
 | Download | [configs/nekobox/Alley_Config_1.txt](configs/nekobox/Alley_Config_1.txt) |
 
 </details>
 
 <details>
-<summary><b>Alley_Config_2</b> — 4203 configs, 937.7 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>Alley_Config_2</b> — 2465 configs, 555.5 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | Alley_Config_2.txt |
 | Source | https://alley.serv00.net/2 |
-| Configs | 4203 |
-| Hash | 01922c9c |
+| Configs | 2465 |
+| Hash | 1bb3dd24 |
 | Download | [configs/nekobox/Alley_Config_2.txt](configs/nekobox/Alley_Config_2.txt) |
 
 </details>
 
 <details>
-<summary><b>WHITE_CIDR_RU_All</b> — 85 configs, 22.2 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>WHITE_CIDR_RU_All</b> — 96 configs, 24.6 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | WHITE_CIDR_RU_All.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt |
-| Configs | 85 |
-| Hash | 59a417c0 |
+| Configs | 96 |
+| Hash | b7f6387f |
 | Download | [configs/nekobox/WHITE_CIDR_RU_All.txt](configs/nekobox/WHITE_CIDR_RU_All.txt) |
 
 </details>
 
 <details>
-<summary><b>WHITE_CIDR_RU_checked</b> — 5 configs, 1.5 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>WHITE_CIDR_RU_checked</b> — 7 configs, 2.0 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | WHITE_CIDR_RU_checked.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt |
-| Configs | 5 |
-| Hash | ef128192 |
+| Configs | 7 |
+| Hash | 2775084d |
 | Download | [configs/nekobox/WHITE_CIDR_RU_checked.txt](configs/nekobox/WHITE_CIDR_RU_checked.txt) |
 
 </details>
 
 <details>
-<summary><b>WHITE_SNI_RU_All</b> — 25 configs, 7.2 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>WHITE_SNI_RU_All</b> — 17 configs, 4.7 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | WHITE_SNI_RU_All.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt |
-| Configs | 25 |
-| Hash | b718869b |
+| Configs | 17 |
+| Hash | bf47d92e |
 | Download | [configs/nekobox/WHITE_SNI_RU_All.txt](configs/nekobox/WHITE_SNI_RU_All.txt) |
 
 </details>
 
 <details>
-<summary><b>cid-white_whitelist</b> — 143 configs, 34.7 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>cid-white_whitelist</b> — 143 configs, 34.7 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -96,20 +96,20 @@
 </details>
 
 <details>
-<summary><b>nowmeow_whitelist</b> — 30 configs, 17.2 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>nowmeow_whitelist</b> — 30 configs, 16.8 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | nowmeow_whitelist.txt |
 | Source | https://nowmeow.pw/8ybBd3fdCAQ6Ew5H0d66Y1hMbh63GpKUtEXQClIu/whitelist |
 | Configs | 30 |
-| Hash | c21aec1c |
+| Hash | 38c34507 |
 | Download | [configs/nekobox/nowmeow_whitelist.txt](configs/nekobox/nowmeow_whitelist.txt) |
 
 </details>
 
 <details>
-<summary><b>bywarm_selected</b> — 256 configs, 78.4 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>bywarm_selected</b> — 256 configs, 78.4 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -122,33 +122,33 @@
 </details>
 
 <details>
-<summary><b>bywarm_wl</b> — 1718 configs, 599.9 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>bywarm_wl</b> — 1707 configs, 597.3 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | bywarm_wl.txt |
 | Source | https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt |
-| Configs | 1718 |
-| Hash | b685c1e4 |
+| Configs | 1707 |
+| Hash | b4c9d9ff |
 | Download | [configs/nekobox/bywarm_wl.txt](configs/nekobox/bywarm_wl.txt) |
 
 </details>
 
 <details>
-<summary><b>gpucloud_merged</b> — 9610 configs, 2927.0 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>gpucloud_merged</b> — 9745 configs, 2953.1 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | gpucloud_merged.txt |
 | Source | https://s3c3.001.gpucloud.ru/wlr/merged.txt |
-| Configs | 9610 |
-| Hash | dd87a9d2 |
+| Configs | 9745 |
+| Hash | e503def3 |
 | Download | [configs/nekobox/gpucloud_merged.txt](configs/nekobox/gpucloud_merged.txt) |
 
 </details>
 
 <details>
-<summary><b>bywarm_merged</b> — 9605 configs, 2917.8 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>bywarm_merged</b> — 9605 configs, 2917.8 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -161,7 +161,7 @@
 </details>
 
 <details>
-<summary><b>ByeWhiteLists2</b> — 1031 configs, 306.8 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>ByeWhiteLists2</b> — 1031 configs, 306.8 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -174,7 +174,7 @@
 </details>
 
 <details>
-<summary><b>SilentGhostCodes_Whitelist</b> — 166 configs, 44.2 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>SilentGhostCodes_Whitelist</b> — 166 configs, 44.2 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -187,7 +187,7 @@
 </details>
 
 <details>
-<summary><b>SilentGhostCodes_Whitelist2</b> — 137 configs, 36.5 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>SilentGhostCodes_Whitelist2</b> — 137 configs, 36.5 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -200,7 +200,7 @@
 </details>
 
 <details>
-<summary><b>SilentGhostCodes_BlackList</b> — 9 configs, 2.4 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>SilentGhostCodes_BlackList</b> — 9 configs, 2.4 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -213,20 +213,20 @@
 </details>
 
 <details>
-<summary><b>sakha1370_OpenRay</b> — 17248 configs, 3090.3 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>sakha1370_OpenRay</b> — 17400 configs, 3135.5 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | sakha1370_OpenRay.txt |
 | Source | https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt |
-| Configs | 17248 |
-| Hash | 46659f41 |
+| Configs | 17400 |
+| Hash | 3f8a86cd |
 | Download | [configs/nekobox/sakha1370_OpenRay.txt](configs/nekobox/sakha1370_OpenRay.txt) |
 
 </details>
 
 <details>
-<summary><b>sevcator_vl</b> — 420430 configs, 102241.0 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>sevcator_vl</b> — 420430 configs, 102241.0 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -239,33 +239,33 @@
 </details>
 
 <details>
-<summary><b>yitong2333_proxy-minging</b> — 13574 configs, 3278.4 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>yitong2333_proxy-minging</b> — 13482 configs, 3268.2 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | yitong2333_proxy-minging.txt |
 | Source | https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt |
-| Configs | 13574 |
-| Hash | 86856b7d |
+| Configs | 13482 |
+| Hash | f34a1532 |
 | Download | [configs/nekobox/yitong2333_proxy-minging.txt](configs/nekobox/yitong2333_proxy-minging.txt) |
 
 </details>
 
 <details>
-<summary><b>roosterkid_V2RAY_RAW</b> — 150 configs, 36.5 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>roosterkid_V2RAY_RAW</b> — 150 configs, 39.6 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | roosterkid_V2RAY_RAW.txt |
 | Source | https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt |
 | Configs | 150 |
-| Hash | 29b4e2d1 |
+| Hash | 501fa9e9 |
 | Download | [configs/nekobox/roosterkid_V2RAY_RAW.txt](configs/nekobox/roosterkid_V2RAY_RAW.txt) |
 
 </details>
 
 <details>
-<summary><b>CidVpn_general</b> — 359 configs, 79.2 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>CidVpn_general</b> — 359 configs, 79.2 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -278,46 +278,46 @@
 </details>
 
 <details>
-<summary><b>Pawdroid_Free-servers</b> — 13 configs, 2.9 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>Pawdroid_Free-servers</b> — 19 configs, 4.4 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | Pawdroid_Free-servers.txt |
 | Source | https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub |
-| Configs | 13 |
-| Hash | db71e366 |
+| Configs | 19 |
+| Hash | 25cf13a7 |
 | Download | [configs/nekobox/Pawdroid_Free-servers.txt](configs/nekobox/Pawdroid_Free-servers.txt) |
 
 </details>
 
 <details>
-<summary><b>wuqb2i4f_mix-uri</b> — 334 configs, 94.7 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>wuqb2i4f_mix-uri</b> — 357 configs, 99.9 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | wuqb2i4f_mix-uri.txt |
 | Source | https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri |
-| Configs | 334 |
-| Hash | 50eb3c6a |
+| Configs | 357 |
+| Hash | 8d48eada |
 | Download | [configs/nekobox/wuqb2i4f_mix-uri.txt](configs/nekobox/wuqb2i4f_mix-uri.txt) |
 
 </details>
 
 <details>
-<summary><b>Mr-Meshky_vify_vless</b> — 771 configs, 216.3 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>Mr-Meshky_vify_vless</b> — 780 configs, 218.0 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | Mr-Meshky_vify_vless.txt |
 | Source | https://github.com/Mr-Meshky/vify/raw/refs/heads/main/configs/vless.txt |
-| Configs | 771 |
-| Hash | 6be9e961 |
+| Configs | 780 |
+| Hash | 499fe262 |
 | Download | [configs/nekobox/Mr-Meshky_vify_vless.txt](configs/nekobox/Mr-Meshky_vify_vless.txt) |
 
 </details>
 
 <details>
-<summary><b>V2RayRoot_vless</b> — 263 configs, 69.8 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>V2RayRoot_vless</b> — 263 configs, 69.8 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -330,7 +330,7 @@
 </details>
 
 <details>
-<summary><b>whoahaow_bypass-7</b> — 304 configs, 86.4 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>whoahaow_bypass-7</b> — 304 configs, 86.4 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -343,7 +343,7 @@
 </details>
 
 <details>
-<summary><b>SER38Off_happ-subscription</b> — 298 configs, 81.4 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>SER38Off_happ-subscription</b> — 298 configs, 81.4 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -356,7 +356,7 @@
 </details>
 
 <details>
-<summary><b>obwlsub_wwh</b> — 4 configs, 0.7 KB, 2026-10-18 01:37 UTC</summary>
+<summary><b>obwlsub_wwh</b> — 4 configs, 0.7 KB, 2026-10-18 07:28 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
@@ -371,40 +371,40 @@
 ### V2RayNG Configs
 
 <details>
-<summary><b>BLACK_VLESS_RUS</b> — 191 configs, 53.3 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>BLACK_VLESS_RUS</b> — 130 configs, 40.6 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | BLACK_VLESS_RUS.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt |
-| Configs | 191 |
-| Hash | 3a047cd1 |
+| Configs | 130 |
+| Hash | 805e8ae3 |
 | Download | [configs/v2ray/BLACK_VLESS_RUS.txt](configs/v2ray/BLACK_VLESS_RUS.txt) |
 
 </details>
 
 <details>
-<summary><b>BLACK_SS_All</b> — 116 configs, 28.5 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>BLACK_SS_All</b> — 116 configs, 27.9 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | BLACK_SS_All.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt |
 | Configs | 116 |
-| Hash | dfbd075b |
+| Hash | afdda813 |
 | Download | [configs/v2ray/BLACK_SS_All.txt](configs/v2ray/BLACK_SS_All.txt) |
 
 </details>
 
 <details>
-<summary><b>VLESS_Reality_White</b> — 82 configs, 21.6 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>VLESS_Reality_White</b> — 92 configs, 24.0 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | VLESS_Reality_White.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt |
-| Configs | 82 |
-| Hash | 747480ce |
+| Configs | 92 |
+| Hash | 8fb83830 |
 | Download | [configs/v2ray/VLESS_Reality_White.txt](configs/v2ray/VLESS_Reality_White.txt) |
 
 </details>
@@ -412,27 +412,27 @@
 ### Happ VPN Configs
 
 <details>
-<summary><b>TOR_BRIDGES_TOP100</b> — 103 configs, 11.9 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>TOR_BRIDGES_TOP100</b> — 103 configs, 12.3 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | TOR_BRIDGES_TOP100.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt |
 | Configs | 103 |
-| Hash | 726dd2e1 |
+| Hash | 3ae5a169 |
 | Download | [configs/happ/TOR_BRIDGES_TOP100.txt](configs/happ/TOR_BRIDGES_TOP100.txt) |
 
 </details>
 
 <details>
-<summary><b>TOR_BRIDGES_ALL</b> — 210 configs, 25.1 KB, 2026-10-18 01:36 UTC</summary>
+<summary><b>TOR_BRIDGES_ALL</b> — 218 configs, 25.8 KB, 2026-10-18 07:27 UTC</summary>
 
 | Parameter | Value |
 |-----------|-------|
 | File | TOR_BRIDGES_ALL.txt |
 | Source | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt |
-| Configs | 210 |
-| Hash | 4dc242bb |
+| Configs | 218 |
+| Hash | 20c1a9cc |
 | Download | [configs/happ/TOR_BRIDGES_ALL.txt](configs/happ/TOR_BRIDGES_ALL.txt) |
 
 </details>
@@ -510,4 +510,4 @@
 
 ---
 
-> Updated: 2026-10-18 04:37 UTC
+> Updated: 2026-10-18 10:28 UTC
