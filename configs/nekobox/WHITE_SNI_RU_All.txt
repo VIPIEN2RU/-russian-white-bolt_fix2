@@ -1,17 +1,11 @@
 # WHITE_SNI_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
-# Updated: 2026-10-22T02:00:17.849761+00:00
-# Total: 6
-# Protocols: other: 1, vless: 5
+# Updated: 2026-10-22T08:01:40.117593+00:00
+# Total: 1
+# Protocols: other: 1
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-22 / 04:15 (Moscow)
-# Количество: 5
+# Date/Time: 2026-10-22 / 09:40 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-us.edgemedia.lol:21443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20ya.ru
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-us.edgemedia.lol:21443?pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&sni=ya.ru&encryption=none&flow=xtls-rprx-vision&type=tcp&sid=d2061bb1&security=reality&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20ya.ru
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-us.edgemedia.lol:21443?pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&sni=ya.ru&encryption=none&flow=xtls-rprx-vision&type=tcp&sid=d2061bb1&security=reality&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20ya.ru
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-us.edgemedia.lol:21443?pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&sni=ya.ru&encryption=none&flow=xtls-rprx-vision&type=tcp&sid=d2061bb1&security=reality&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20ya.ru
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-us.edgemedia.lol:21443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&sni=ya.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20ya.ru
