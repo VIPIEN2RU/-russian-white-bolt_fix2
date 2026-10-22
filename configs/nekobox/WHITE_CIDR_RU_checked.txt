@@ -1,17 +1,11 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-10-22T18:55:17.138935+00:00
-# Total: 6
-# Protocols: other: 1, vless: 5
+# Updated: 2026-10-22T23:42:54.958256+00:00
+# Total: 1
+# Protocols: other: 1
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-10-22 / 21:12 (Moscow)
-# Количество: 5
+# Date/Time: 2026-10-23 / 01:19 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@terraavenue.net:443?encryption=none&security=tls&sni=terraavenue.net&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=terraavenue.net&mode=auto&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@terraavenue.net:443?encryption=none&security=tls&sni=terraavenue.net&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=terraavenue.net&mode=auto&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@terraavenue.net:443?encryption=none&security=tls&sni=terraavenue.net&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=terraavenue.net&mode=auto&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@terraavenue.net:443?encryption=none&security=tls&sni=terraavenue.net&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=terraavenue.net&mode=auto&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@terraavenue.net:443?encryption=none&security=tls&sni=terraavenue.net&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=terraavenue.net&mode=auto&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
