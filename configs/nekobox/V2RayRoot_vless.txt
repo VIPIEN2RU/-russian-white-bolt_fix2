@@ -1,6 +1,6 @@
 # V2RayRoot_vless
 # Source: https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt
-# Updated: 2026-10-23T13:53:47.603110+00:00
+# Updated: 2026-10-23T18:48:11.410874+00:00
 # Total: 263
 # Protocols: vless: 263
 
