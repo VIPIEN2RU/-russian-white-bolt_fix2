@@ -1,6 +1,6 @@
 # TOR_BRIDGES_TOP100
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt
-# Updated: 2026-10-25T20:02:55.081064+00:00
+# Updated: 2026-10-25T22:51:38.091788+00:00
 # Total: 103
 # Protocols: bridge: 48, ip: 41, other: 11, tor_bridge: 3
 
