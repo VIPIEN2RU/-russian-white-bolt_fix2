@@ -1,17 +1,20 @@
 # Pawdroid_Free-servers
 # Source: https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
-# Updated: 2026-10-31T02:51:12.713125+00:00
-# Total: 11
-# Protocols: ss: 4, vless: 7
+# Updated: 2026-10-31T09:01:10.548258+00:00
+# Total: 14
+# Protocols: ss: 4, trojan: 7, vless: 3
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.20.6.134:8080?security=none&type=ws&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:8080?encryption=none&security=&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+trojan://humanity@5.44.46.142:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E6%83%9F%E8%AF%91%E5%A4%A9%E5%88%9B%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+trojan://humanity@172.67.203.46:443?host=www.cordweave.com&path=%2Fassignment&security=tls&sni=www.cordweave.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@172.67.203.46:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@82.117.245.125:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+trojan://humanity@104.19.46.152:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@104.17.17.238:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.195:8463?&security=reality&flow=xtls-rprx-vision&pbk=k2jSuvKPXyN0fCJiGpl1NMzzN7kzo64vsbbLD4gdKQ4&sid=f017b721750fd683&fp=firefox&sni=svoboda2.bystriynet.online&type=tcp&headerType=none&host=svoboda2.bystriynet.online&path=%2F#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@195.141.65.98:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=148-253-210-191.sslip.io&type=ws&headerType=none&host=148-253-210-191.sslip.io&path=%2Ftest-ws#%E7%91%9E%E5%A3%AB+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime42.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E8%81%9A%E9%BE%99%E6%97%A0%E9%99%90%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@80.93.202.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime02.workers.dev&path=%2F#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://13134515-adc7-404b-8d2a-f9ad99e8dcbd@188.164.248.110:443?encryption=none&security=tls&sni=imanvipreserved.pages.dev&fp=chrome&type=ws&host=imanvipreserved.pages.dev&path=%2F#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+trojan://TsX0XJKMa2h$CbKr0k@188.114.97.9:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FmPwnfIHtx0vldKy0A5AGJTZB&security=tls&sni=IDB8onmVBntUyt5T7T6cEjFW8VLRB.PAGES.DeV&type=ws#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
