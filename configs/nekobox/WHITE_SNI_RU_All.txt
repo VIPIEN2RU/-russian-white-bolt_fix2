@@ -1,13 +1,11 @@
 # WHITE_SNI_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
-# Updated: 2026-11-17T22:45:51.409803+00:00
-# Total: 2
-# Protocols: other: 1, vless: 1
+# Updated: 2026-11-18T04:47:44.866858+00:00
+# Total: 1
+# Protocols: other: 1
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-11-18 / 00:17 (Moscow)
-# Количество: 1
+# Date/Time: 2026-11-18 / 06:10 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@2.27.40.12:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yandex.ru&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20yandex.ru
