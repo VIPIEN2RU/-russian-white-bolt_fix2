@@ -1,6 +1,6 @@
 # ByeWhiteLists2
 # Source: https://raw.githubusercontent.com/ByeWhiteLists/ByeWhiteLists2/refs/heads/main/ByeWhiteLists2.txt
-# Updated: 2026-11-19T22:31:34.671513+00:00
+# Updated: 2026-11-20T04:28:50.218069+00:00
 # Total: 1031
 # Protocols: vless: 1031
 
