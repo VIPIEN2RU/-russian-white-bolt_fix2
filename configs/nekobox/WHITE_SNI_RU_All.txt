@@ -1,14 +1,16 @@
 # WHITE_SNI_RU_All
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
-# Updated: 2026-11-22T00:45:09.998991+00:00
-# Total: 3
-# Protocols: other: 1, vless: 2
+# Updated: 2026-11-22T10:25:23.445833+00:00
+# Total: 5
+# Protocols: other: 1, vless: 4
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-11-22 / 02:29 (Moscow)
-# Количество: 2
+# Date/Time: 2026-11-22 / 12:52 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://5c00e45e-241e-4ae2-9ccb-736e6a1fe00b@177.3.215.110:443?flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=obTNVl4ZYXu6dV_R9yJohvU8xtAs6KHbMsRPTeT_blI&fp=android#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5BSNI-RU%5D%20eh.vk.com
-vless://5c00e45e-241e-4ae2-9ccb-736e6a1fe00b@177.3.215.110:443?flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=obTNVl4ZYXu6dV_R9yJohvU8xtAs6KHbMsRPTeT_blI&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5BSNI-RU%5D%20eh.vk.com
+vless://ae506c31-9407-4f3a-9796-20a96a29eb53@18.198.223.156:3443?encryption=none&type=xhttp&security=reality&sni=travel.yandex.ru&pbk=UDfaRJ-3n3hU1SldWMXD9W31R3LjNydS0usDlhV_W00&sid=abcdef0123456789&path=%2F&host=de.vp.uspn.io&mode=auto&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20travel.yandex.ru
+vless://ae506c31-9407-4f3a-9796-20a96a29eb53@18.198.223.156:3443?encryption=none&type=xhttp&security=reality&sni=travel.yandex.ru&pbk=UDfaRJ-3n3hU1SldWMXD9W31R3LjNydS0usDlhV_W00&sid=abcdef0123456789&path=%2F&host=de.vp.uspn.io&mode=auto&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20travel.yandex.ru
+vless://ae506c31-9407-4f3a-9796-20a96a29eb53@16.192.72.134:3443?encryption=none&type=xhttp&security=reality&sni=travel.yandex.ru&pbk=UDfaRJ-3n3hU1SldWMXD9W31R3LjNydS0usDlhV_W00&sid=abcdef0123456789&path=%2F&host=se.vp.uspn.io&mode=auto&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20travel.yandex.ru
+vless://ae506c31-9407-4f3a-9796-20a96a29eb53@16.192.72.134:3443?encryption=none&type=xhttp&security=reality&sni=travel.yandex.ru&pbk=UDfaRJ-3n3hU1SldWMXD9W31R3LjNydS0usDlhV_W00&sid=abcdef0123456789&path=%2F&host=se.vp.uspn.io&mode=auto&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20travel.yandex.ru
