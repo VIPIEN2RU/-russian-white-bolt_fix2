@@ -1,19 +1,11 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-11-25T03:52:26.304745+00:00
-# Total: 8
-# Protocols: other: 1, vless: 7
+# Updated: 2026-11-25T16:13:53.176513+00:00
+# Total: 1
+# Protocols: other: 1
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-11-24 / 20:30 (Moscow)
-# Количество: 7
+# Date/Time: 2026-11-25 / 18:28 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=lv.chick-chirik.com&fp=ios#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=lv.chick-chirik.com&fp=random#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=lv.chick-chirik.com&fp=safari#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.54.115:443?flow=xtls-rprx-vision&pbk=2v1vd2gw3A9Sw6w36s63QaSeMYnY4DrkEPUdKAbBPzE&security=reality&sid=25f11b01338a8963&sni=lv.chick-chirik.com&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.52.120:34443?security=reality&flow=xtls-rprx-vision&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&sid=ab532d3308daa67b&sni=ru.sparxiecn.com&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.52.120:34443?security=reality&flow=xtls-rprx-vision&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&sid=ab532d3308daa67b&sni=ru.sparxiecn.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.52.120:34443?security=reality&flow=xtls-rprx-vision&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&sid=ab532d3308daa67b&sni=ru.sparxiecn.com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
