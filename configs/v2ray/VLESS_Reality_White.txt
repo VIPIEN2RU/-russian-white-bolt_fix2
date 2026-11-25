@@ -1,6 +1,6 @@
 # VLESS_Reality_White
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
-# Updated: 2026-11-24T19:46:42.191584+00:00
+# Updated: 2026-11-25T03:52:24.248706+00:00
 # Total: 102
 # Protocols: other: 1, vless: 101
 

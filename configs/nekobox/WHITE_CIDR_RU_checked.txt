@@ -1,6 +1,6 @@
 # WHITE_CIDR_RU_checked
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-# Updated: 2026-11-24T19:46:44.232955+00:00
+# Updated: 2026-11-25T03:52:26.304745+00:00
 # Total: 8
 # Protocols: other: 1, vless: 7
 
