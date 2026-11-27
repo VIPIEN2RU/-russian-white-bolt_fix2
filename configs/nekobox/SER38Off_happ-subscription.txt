@@ -1,6 +1,6 @@
 # SER38Off_happ-subscription
 # Source: https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/sub1-white-lists.txt
-# Updated: 2026-11-26T20:37:32.736456+00:00
+# Updated: 2026-11-27T03:22:07.566615+00:00
 # Total: 298
 # Protocols: other: 3, trojan: 2, vless: 293
 
